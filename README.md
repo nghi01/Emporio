@@ -7,3 +7,11 @@
 - Python installed
 - Pygame installed
 - Pytmx installed
+
+# How to run:
+
+All you need to do is run the emporio_main.py:
+
+```
+python emporio_main.py
+```
